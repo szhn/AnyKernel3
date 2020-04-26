@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=IceCream by TheMalachite
+kernel.string=rel0aded by uixdess
 do.devicecheck=1
 do.modules=0
 do.systemless=1
